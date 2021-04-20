@@ -1,6 +1,29 @@
 ### Hi there 👋
-## I live in :brazil:
+## I'm Renan Henrique
+- I live in 🇧🇷
+- I have been working on CoachingTech as Fullstack Developer 💻
+- I have been learning more about Flutter 💖
 
+## Connect with me
+<a href="">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" heigth="30" width="40"/>
+</a>
+<a href="">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" heigth="30" width="40"/>
+</a>
+<a href="">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/facebook/facebook-original.svg" heigth="30" width="40"/>
+</a>
+
+## My Skills
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" heigth="30" width="40" style="max-width:100%"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" heigth="30" width="40" style="max-width:100%"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" heigth="30" width="40" style="max-width:100%"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" heigth="30" width="40" style="max-width:100%"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" heigth="30" width="40" style="max-width:100%"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" heigth="30" width="40" style="max-width:100%"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" heigth="30" width="40" style="max-width:100%"/>
 <!--
 **renamcomn/renamcomn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
