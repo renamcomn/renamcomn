@@ -5,13 +5,13 @@
 - I have been learning more about Flutter 💖
 
 ## Connect with me
-<a href="">
+<a href="https://www.linkedin.com/in/renamcomn/" target="_blank">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" heigth="30" width="40"/>
 </a>
-<a href="">
+<a href="https://twitter.com/renamcomn" target="_blank">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" heigth="30" width="40"/>
 </a>
-<a href="">
+<a href="https://www.facebook.com/renamcomn" target="_blank">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/facebook/facebook-original.svg" heigth="30" width="40"/>
 </a>
 
