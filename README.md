@@ -30,7 +30,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg" heigth="30" width="40" style="max-width:100%"></img>
 
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=renamcomn)](https://github.com/renamcomn/github-readme-stats)
 
 
 <!--
