@@ -17,13 +17,22 @@
 
 ## My Skills
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" heigth="30" width="40" style="max-width:100%"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" heigth="30" width="40" style="max-width:100%"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" heigth="30" width="40" style="max-width:100%"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" heigth="30" width="40" style="max-width:100%"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" heigth="30" width="40" style="max-width:100%"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" heigth="30" width="40" style="max-width:100%"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" heigth="30" width="40" style="max-width:100%"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" heigth="30" width="40" style="max-width:100%"></img>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" heigth="30" width="40" style="max-width:100%"></img>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" heigth="30" width="40" style="max-width:100%"></img>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" heigth="30" width="40" style="max-width:100%"></img>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" heigth="30" width="40" style="max-width:100%"></img>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" heigth="30" width="40" style="max-width:100%"></img>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" heigth="30" width="40" style="max-width:100%"></img>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" heigth="30" width="40" style="max-width:100%"></img>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-plain-wordmark.svg" heigth="30" width="40" style="max-width:100%"></img>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" heigth="30" width="40" style="max-width:100%"></img>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg" heigth="30" width="40" style="max-width:100%"></img>
+
+
+
+
+
 <!--
 **renamcomn/renamcomn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
