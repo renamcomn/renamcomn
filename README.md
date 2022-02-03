@@ -1,7 +1,7 @@
 ### Hi there 👋
 ## I'm Renan Henrique
 - I live in 🇧🇷
-- I have been working on Grupo CoachingTech as Fullstack Developer 💻
+- I have been working on Digi.ag as Fullstack Developer 💻
 - I have been learning more about Flutter 💖
 
 ## Connect with me
