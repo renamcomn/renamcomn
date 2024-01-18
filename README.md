@@ -1,16 +1,14 @@
-### Hi there <img src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" width="30px"/>
-## I'm Renan Henrique
-- I live in 🇧🇷
-- I have been working as Fullstack Developer & Mobile Developer 💻
+👋 Hello, World! I'm Renan Henrique, a passionate individual with a love for all things tech. My journey in the digital realm revolves around three core pillars: Cybersecurity, Full Stack Development, and Mobile App Development.
 
-<p>💼 any freelance work? do reach, <a href="mailto:renamcomn@outlook.com">email</a> :)</p>
-<p>💬 ask me about anything, i am happy to help;</p>
+🔒 Cybersecurity Enthusiast: As a firm believer in the importance of a secure digital landscape, I am dedicated to mastering the art and science of cybersecurity. From ethical hacking to robust defense strategies, I am on a mission to make the virtual world a safer place.
 
-<img src="https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif?raw=true" width="500"/>
+💻 Full Stack Developer: Bridging the gap between the front-end and back-end realms, I thrive on crafting seamless and interactive user experiences. From designing elegant interfaces to optimizing database performance, I embrace the full spectrum of web development.
 
-if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
+📱 Mobile App Aficionado: Mobile devices have become an integral part of our lives, and I am deeply passionate about creating impactful mobile applications. Whether it's for iOS or Android, I take delight in turning ideas into user-friendly and innovative mobile experiences.
 
-<a href="https://www.buymeacoffee.com/renamcomn"><img src="https://camo.githubusercontent.com/45ce6667a35b63fd6a1ba6978d030a7f52ff5b1b262c5c8aa3ece29afc469ac8/68747470733a2f2f63646e2e6275796d6561636f666665652e636f6d2f627574746f6e732f76322f64656661756c742d7265642e706e67" width="150px"/></a>
+🛠️ Tech Stack: My toolkit includes a variety of programming languages and tools, including but not limited to JavaScript, Python, React, Node.js, and Flutter. I am always exploring new technologies to stay at the forefront of the ever-evolving tech landscape.
+
+📚 Continuous Learner: In the fast-paced world of technology, learning is a lifelong journey. I am committed to staying curious and continuously enhancing my skills. Feel free to join me on this exciting adventure!
 
 ## Connect with me
 <a href="https://www.linkedin.com/in/renamcomn/" target="_blank">
